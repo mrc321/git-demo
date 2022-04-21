@@ -1,3 +1,4 @@
 hello git!!!  add new string
 hello git!!
 add line
+fix-hot add new line
