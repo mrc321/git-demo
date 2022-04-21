@@ -1,4 +1,4 @@
 hello git!!!  add new string
 hello git!!
-add line
+add line master test
 fix-hot add new line
