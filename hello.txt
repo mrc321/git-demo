@@ -3,3 +3,4 @@ hello git!!
 add line master test
 add line hot-fix
 fix-hot add new line
+this is edited by windows
