@@ -4,3 +4,5 @@ add line master test
 add line hot-fix
 add line hot-fix two
 fix-hot add new line
+this is edited by windows
+this is edited by linux
